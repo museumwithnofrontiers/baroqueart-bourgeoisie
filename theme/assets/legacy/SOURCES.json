@@ -1,4 +1,97 @@
 {
-  "about": "TODO(dataset): written by inventory-app's scripts/minisites/legacy-minisite.mjs, with every picture of the frame taken from the legacy exhibition.",
-  "files": {}
+  "about": "The frame this website takes from legacy Discover Baroque Art's virtual exhibition The Ascension of the Bourgeoisie (exhibitions/BAR/bourgeoisie/), each file as legacy serves it, byte for byte; the curators' and the designer's logos come from the exhibitions' shared sponsor_logo folder. tests/assets.test.js checks every file against its hash.",
+  "files": {
+    "theme/assets/legacy/arrow_inner_black.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/bourgeoisie/images/arrow_inner_black.gif",
+      "sha256": "a969e5e62fe3c75dcb4e05ef1ca4e38f67a528916db802c229511b44567bd87a"
+    },
+    "theme/assets/legacy/bg_fading_left.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/bourgeoisie/images/bg_fading_left.gif",
+      "sha256": "03329d93b0ee60d6d17a8716a9ce2280091b393367f72935dbed1db22ccde068"
+    },
+    "theme/assets/legacy/bg_fading_right.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/bourgeoisie/images/bg_fading_right.gif",
+      "sha256": "7cddb8e3d2ca47e9ce30b69627dc0d8ae3285e9742145a06f7046ac28d1db322"
+    },
+    "theme/assets/legacy/CZ-50.png": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/sponsor_logo/CZ-50.png",
+      "sha256": "73125b559893dff1cb41627fa5d50b8a4b487ab800ec035b1fe9b1be137e0c07"
+    },
+    "theme/assets/legacy/exhibition_bg_ar.jpg": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/bourgeoisie/images/exhibition_bg_ar.jpg",
+      "sha256": "f4368ae40902acde090ea2e9bd3367272a9e6830cdc91dfbdb1d7fc4d44a2756"
+    },
+    "theme/assets/legacy/exhibition_bg.jpg": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/bourgeoisie/images/exhibition_bg.jpg",
+      "sha256": "81169caa99ce2df0e6506a32d179ced67b3f0f821e5908277e9a615174277d44"
+    },
+    "theme/assets/legacy/home_bg_ar.jpg": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/bourgeoisie/images/home_bg_ar.jpg",
+      "sha256": "cebc982aee2da9a29d90e03a583a731ea82f54820ae6acca94ac93f7d85fe0f7"
+    },
+    "theme/assets/legacy/home_bg.jpg": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/bourgeoisie/images/home_bg.jpg",
+      "sha256": "f536f62d55c8dcf6204a0629bdd8b7367a2461c451dec9097e6006e81f1af040"
+    },
+    "theme/assets/legacy/ico_item_selected.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/bourgeoisie/images/ico_item_selected.gif",
+      "sha256": "8e4e35eebb1dda3a1495a2dc7a9d1a4611d9118f3f683a269823da701989feb5"
+    },
+    "theme/assets/legacy/ico_item.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/bourgeoisie/images/ico_item.gif",
+      "sha256": "0b630172707e2ed687751dd70acb096ef905a3ee56421c650c227520e10030c8"
+    },
+    "theme/assets/legacy/intro_bg_ar.jpg": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/bourgeoisie/images/intro_bg_ar.jpg",
+      "sha256": "e360ede3fd982b6e39f6f6cc23b8b09a4ef787199f7b8acd70e19578f72fc995"
+    },
+    "theme/assets/legacy/intro_bg.jpg": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/bourgeoisie/images/intro_bg.jpg",
+      "sha256": "573481de92c30bf0c4f2473e0c586b8be3190dc5d32561c9bc09afefe856cd09"
+    },
+    "theme/assets/legacy/logo_ar.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/bourgeoisie/images/logo_ar.gif",
+      "sha256": "cf6bb9baca20e0fef1e2e961ba82040942eeb138d64836921f55a9be04b96d15"
+    },
+    "theme/assets/legacy/logo_de.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/bourgeoisie/images/logo_de.gif",
+      "sha256": "bdae3a89fb3af592bdc4280a83170bf23ef9c622324e52f5c2eb07eb9b62c6d9"
+    },
+    "theme/assets/legacy/logo_en.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/bourgeoisie/images/logo_en.gif",
+      "sha256": "f44e3378c36346b88cbb780940d3dcb7325f4ee1075cbf5baadfdd5c4b2b2412"
+    },
+    "theme/assets/legacy/logo_es.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/bourgeoisie/images/logo_es.gif",
+      "sha256": "044653c2ac11299b2f95825f504ab9f1801f7d43dce6fc69093fe761f19f7376"
+    },
+    "theme/assets/legacy/logo_fr.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/bourgeoisie/images/logo_fr.gif",
+      "sha256": "49d64e8ea182d58f911970fffb7e28877c3d60ce2c58abad1e06db55f2c5a9f6"
+    },
+    "theme/assets/legacy/logo_it.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/bourgeoisie/images/logo_it.gif",
+      "sha256": "301909d956a1689f1eec1ee5bdfc8dad97614aa4a3348632cee150ce8e770449"
+    },
+    "theme/assets/legacy/logo_pt.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/bourgeoisie/images/logo_pt.gif",
+      "sha256": "3e1e6894256a79117d60d5da6c907625591f33334ad8b2016b346462c073b32f"
+    },
+    "theme/assets/legacy/logo_se.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/bourgeoisie/images/logo_se.gif",
+      "sha256": "b7f99b6269e5682d8554c42f78410fc95c146a60c79d3ce55d55426c880b717e"
+    },
+    "theme/assets/legacy/logo_tr.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/bourgeoisie/images/logo_tr.gif",
+      "sha256": "e76fad35af8d9a5f18795bedeb9236ca021b59f5b5fb76e616e522c0d055ebf6"
+    },
+    "theme/assets/legacy/print_dark.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/bourgeoisie/images/print_dark.gif",
+      "sha256": "49894d52c06b6f8e1c29b0b3f82245bcd3f439108e4cd3a7c4f16360ed896742"
+    },
+    "theme/assets/legacy/yasar.png": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/sponsor_logo/yasar.png",
+      "sha256": "36d460d80fb84e7345b7bedc6d605412feef3cb6f284d5f45431b8e4b1064757"
+    }
+  }
 }

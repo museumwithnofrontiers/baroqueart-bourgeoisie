@@ -1,6 +1,20 @@
 {
-  "legacy": "TODO(dataset): run inventory-app's scripts/minisites/legacy-minisite.mjs",
+  "legacy": "https://baroqueart.museumwnf.org/exhibitions/BAR/bourgeoisie/",
+  "family": "BAR",
   "menuSecondColumnFrom": 7,
-  "curators": [],
+  "curators": [
+    {
+      "partner": "f446146a-791c-5ab5-a762-4bd0263541be",
+      "place": "Brno",
+      "country": "cze",
+      "logo": "legacy/CZ-50.png",
+      "space": 35
+    }
+  ],
+  "design": {
+    "name": "Yasar University Izmir, Turkey",
+    "logo": "legacy/yasar.png",
+    "href": "http://www.yasar.edu.tr/en/"
+  },
   "maps": 0
 }
